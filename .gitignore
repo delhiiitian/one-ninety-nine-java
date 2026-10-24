@@ -1,0 +1,12 @@
+# Build output
+out/
+target/
+*.class
+*.jar
+# Files the examples create while running
+sandbox/
+# Editors
+.idea/
+.vscode/
+*.iml
+.DS_Store

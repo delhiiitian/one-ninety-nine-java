@@ -1,0 +1,3 @@
+Java was created at Sun Microsystems in the early nineties. The team wanted a language for small devices like television boxes. That market did not take off, but the web did. Java applets brought moving pictures to web pages, and developers loved the promise of write once, run anywhere.
+
+Today Java runs banking systems, online shops, Android apps and huge data platforms. It is not the newest language, but it is one of the most trusted. Companies choose Java because it is stable, fast and backed by a giant community. Learning Java opens many doors.

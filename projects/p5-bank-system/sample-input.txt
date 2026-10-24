@@ -1,0 +1,15 @@
+balance AC1001 1234
+deposit AC1001 250.50
+withdraw AC1002 4321 500
+withdraw AC1001 1234 abc
+deposit AC1001 -20
+transfer AC1001 1234 AC1002 300
+transfer AC1001 1234 AC9999 10
+withdraw AC1001
+balance AC1002 0000
+balance AC1002 1111
+balance AC1002 2222
+balance AC1002 4321
+statement AC1001
+fly AC1001
+quit

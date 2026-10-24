@@ -1,0 +1,8 @@
+Checking locker 0
+Checking locker 1
+Checking locker 2
+Found keys in locker 2! Stop searching.
+Skipping invalid quantity -1
+Skipping invalid quantity 0
+Total valid items: 49
+First free seat: row 1, col 2

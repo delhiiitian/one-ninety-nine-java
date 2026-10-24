@@ -1,0 +1,7 @@
+Inside photos/:
+  2025/
+  2026/
+JPG files found: 2
+  2025/beach.jpg
+  2026/hike.jpg
+photos/ still exists? false

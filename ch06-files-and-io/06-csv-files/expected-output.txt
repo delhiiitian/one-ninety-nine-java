@@ -1,0 +1,6 @@
+Skipping bad row 5: Dina,abc,70
+name,average,result
+Aisha,84.5,PASS
+Bruno,51.5,FAIL
+Chen,87.5,PASS
+Eli,64.0,PASS

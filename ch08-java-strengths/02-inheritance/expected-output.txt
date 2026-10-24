@@ -1,0 +1,7 @@
+Toyota engine starts
+Toyota trunk opened
+Volvo engine starts
+Loaded 12.5 t
+2022 Toyota car with 5 seats
+2019 Volvo truck, max 18.0 t
+Is a Truck a Vehicle? true

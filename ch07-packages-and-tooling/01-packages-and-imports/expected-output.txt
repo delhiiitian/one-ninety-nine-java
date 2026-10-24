@@ -1,0 +1,3 @@
+FRIDAY bill: 2 items, total $6.15
+Main lives in package: com.cafe.app
+MenuItem lives in package: com.cafe.menu

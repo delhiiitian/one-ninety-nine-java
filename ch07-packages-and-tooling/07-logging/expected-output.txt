@@ -1,0 +1,7 @@
+INFO    [shop.checkout] Checkout service starting
+FINE    [shop.checkout] Validating order A-100
+INFO    [shop.checkout] Order A-100 accepted for 3 item(s)
+FINE    [shop.checkout] Validating order A-101
+WARNING [shop.checkout] Order A-101 has invalid quantity 0
+--- switching to WARNING level ---
+WARNING [shop.checkout] Order A-103 has invalid quantity -1

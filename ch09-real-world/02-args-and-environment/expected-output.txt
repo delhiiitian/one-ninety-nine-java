@@ -1,0 +1,9 @@
+Received 5 argument(s)
+  args[0] = greet
+  args[1] = --name
+  args[2] = Ana
+  args[3] = --times
+  args[4] = 2
+Mode: development
+Hello, Ana!
+Hello, Ana!

@@ -1,0 +1,3 @@
+Bought 2 ticket(s) for Coldplay. Remaining: 2
+Sorry: Not enough tickets for Coldplay (only 2 left)
+Sorry: No event called Adele

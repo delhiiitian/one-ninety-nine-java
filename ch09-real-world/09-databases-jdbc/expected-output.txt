@@ -1,0 +1,5 @@
+In stock:
+  Kettle   $ 24.99  (12 left)
+  Blender  $ 59.00  (5 left)
+Order cancelled: toaster out of stock, kettle sale rolled back (1 row undone)
+Kettle stock still: 12

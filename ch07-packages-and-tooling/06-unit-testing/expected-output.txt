@@ -1,0 +1,6 @@
+PASS  short password is weak
+PASS  no digit is weak
+PASS  no uppercase is weak
+PASS  upper + digit + 8 chars strong
+PASS  null is weak, not a crash
+5 passed, 0 failed

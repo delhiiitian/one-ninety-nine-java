@@ -1,0 +1,7 @@
+Size: 41 bytes
+Readable? true
+Regular file? true
+Has a modified time? true
+Copied. Same contents? true
+Old name exists? false, new name exists? true
+Backup deleted? true

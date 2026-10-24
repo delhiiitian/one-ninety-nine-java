@@ -1,0 +1,4 @@
+Each pays 2
+Cannot split between zero people.
+Please type digits only: For input string: "x"
+Both the bill and the number of people are required.

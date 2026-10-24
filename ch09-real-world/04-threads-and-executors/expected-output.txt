@@ -1,0 +1,9 @@
+Main: making toast while the kettle boils
+Kettle: water boiled
+Main: pouring tea
+Served: soup ready
+Served: pasta ready
+Served: salad ready
+Served: cake ready
+Visits counted: 4000 (expected 4000)
+Virtual threads finished: 10000

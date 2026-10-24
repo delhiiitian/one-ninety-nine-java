@@ -1,0 +1,15 @@
+*****************************
+*  Welcome to Pizza Palace  *
+*****************************
+1. Margherita  $8
+2. Pepperoni   $10
+3. Veggie      $9
+Thank you for ordering!
+
+Second customer arrives...
+*****************************
+*  Welcome to Pizza Palace  *
+*****************************
+1. Margherita  $8
+2. Pepperoni   $10
+3. Veggie      $9

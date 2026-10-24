@@ -1,0 +1,8 @@
+Valid age entered: 25
+'abc' is not a number. Please try again.
+Valid age entered: -4
+Valid age entered: 12
+Before the problem
+Problem: / by zero
+Page size: 20
+Program continues normally.

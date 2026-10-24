@@ -1,0 +1,9 @@
+home = Point[x=3, y=4]
+x = 3, y = 4
+home.equals(same)? true
+Distance from origin: 5.0
+Temperature[celsius=-10.0, city=Oslo]
+Rejected: Below absolute zero: -300.0
+moved = Point[x=4, y=4], home unchanged = Point[x=3, y=4]
+#101 Keyboard  total $50.00
+#102 Mouse     total $15.50

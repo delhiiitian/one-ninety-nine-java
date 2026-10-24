@@ -1,0 +1,6 @@
+Hello Leila, you are 30 years old.
+Hello Tom, you are 8 years old.
+Sandwich     x2  $  9.00
+Juice        x3  $  6.75
+-=-=-=-=-=-=-=-=-=-=
+Hello Mina, you are 41 years old.

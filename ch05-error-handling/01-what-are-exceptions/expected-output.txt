@@ -1,0 +1,10 @@
+Step 1: starting checkout
+Caught: java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 3
+Caught: NullPointerException
+Caught: java.lang.ArithmeticException: / by zero
+Caught: java.lang.NumberFormatException: For input string: "three"
+java.lang.IllegalArgumentException: Amount cannot be negative: -5
+	at WhatAreExceptions.chargeCard(WhatAreExceptions.java:55)
+	at WhatAreExceptions.placeOrder(WhatAreExceptions.java:50)
+	at WhatAreExceptions.main(WhatAreExceptions.java:36)
+Step 2: program kept running because we handled the problems

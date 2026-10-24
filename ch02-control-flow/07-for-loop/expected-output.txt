@@ -1,0 +1,15 @@
+Running lap 1
+Running lap 2
+Running lap 3
+Running lap 4
+Running lap 5
+Launch in 3...
+Launch in 2...
+Launch in 1...
+Liftoff!
+Even numbers to 10: 0 2 4 6 8 10 
+Saved in a year: $2400.0
+Now playing: Intro
+Now playing: Sunrise
+Now playing: Highway
+Now playing: Outro

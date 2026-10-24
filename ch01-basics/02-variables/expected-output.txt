@@ -1,0 +1,6 @@
+Customer: Priya
+Cups: 2
+Cups after update: 3
+Total to pay: $10.5
+Loyalty points earned: 30
+Cafe: Bean There

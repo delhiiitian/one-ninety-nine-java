@@ -1,0 +1,4 @@
+Delivered: pizza + drinks + dessert
+Took less than 600 ms (run in parallel)? true
+Charged $46.75
+fallback: pay on delivery (payment gateway down)

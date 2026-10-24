@@ -1,0 +1,8 @@
+Rex says: Woof!
+Bella says: Woof!
+Rex played for 30 minutes. Energy now 2
+Bella played for 10 minutes. Energy now 4
+Rex took a nap. Energy restored to 10
+Rex (Labrador) energy: 10
+Bella (Beagle) energy: 4
+rex.name is now: Rexy

@@ -1,0 +1,7 @@
+Letter box holds: Birthday card
+Coin box holds: 100
+Laptop costs $899.0
+Highest score: 94
+Last name alphabetically: Zoe
+First of names: nobody
+Sum: 4.0 and 253.0

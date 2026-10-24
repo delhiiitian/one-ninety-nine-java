@@ -1,0 +1,10 @@
+Turn ON kitchen faucet
+Poured 2 litre(s) in kitchen
+Turn OFF kitchen faucet
+
+Turn ON bathroom faucet
+Turn ON garden faucet
+Poured 1 litre(s) in bathroom
+Turn OFF garden faucet
+Turn OFF bathroom faucet
+Problem: Bucket overflow in garden

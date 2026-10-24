@@ -1,0 +1,4 @@
+Ines   Salaried  $  5000.00
+Kwame  Hourly    $  3000.00
+Lucy   Hourly    $  2400.00
+Total monthly payroll: $10400.00

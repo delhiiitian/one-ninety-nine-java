@@ -1,0 +1,4 @@
+18.5 C -> HEAT
+21.2 C -> IDLE
+23.0 C -> COOL
+Docs generated: sandbox/docs/index.html exists? yes

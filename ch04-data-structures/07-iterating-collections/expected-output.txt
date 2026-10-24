@@ -1,0 +1,13 @@
+1. email boss
+2. buy milk
+3. pay rent
+4. buy stamps
+- email boss
+- buy milk
+- pay rent
+- buy stamps
+After errands done: [email boss, pay rent]
+TODO: EMAIL BOSS
+TODO: PAY RENT
+apples pears plums 
+Reorder pears!

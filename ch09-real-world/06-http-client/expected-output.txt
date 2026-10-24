@@ -1,0 +1,5 @@
+Status: 200
+Content-Type: application/json
+Body: {"city":"Pune","tempC":29,"sky":"clear"}
+POST status: 201, body: {"saved":true}
+Missing page status: 404

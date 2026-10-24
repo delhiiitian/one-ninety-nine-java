@@ -1,0 +1,11 @@
+Today: 2026-10-24 (SATURDAY)
+Age: 31 years, 7 months
+Library book due: 2026-11-07
+Days until New Year: 69
+2028 is a leap year? true
+Shift length: 8h 30m
+Meeting: Tue 3 Nov 2026, 14:30
+Parsed Christmas: 2026-12-25
+Call in Kolkata:  14:30
+Same in New York: 04:00
+Same in London:   09:00

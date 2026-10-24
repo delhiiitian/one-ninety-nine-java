@@ -1,0 +1,9 @@
+Add Ava: true
+Add Leo: true
+Add Ava again: false
+Guest count: 2
+Is Leo inside? true
+5 signups, 3 unique: [a@x.com, b@x.com, c@x.com]
+Both:       [Leo, Noah]
+Either:     [Ava, Leo, Mia, Noah, Zoe]
+Pizza only: [Ava, Mia]

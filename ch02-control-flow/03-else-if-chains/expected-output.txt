@@ -1,0 +1,6 @@
+Score 95 -> grade A
+Score 83 -> grade B
+Score 71 -> grade C
+Score 64 -> grade D
+Score 40 -> grade F
+Order $72.5 ships for $4.99

@@ -1,0 +1,10 @@
+List: [Milk, Butter, Eggs, Bread]
+Size: 4
+Second item: Butter
+After changes: [Butter, Bread]
+Has bread? true
+Index of Bread: 1
+Weekly steps [4200, 8800, 10300, 6100, 12000] total 41400
+Active days only: [8800, 10300, 12000]
+[Mon, Tue, Wed, Thu, Fri] (read-only)
+Empty now? true

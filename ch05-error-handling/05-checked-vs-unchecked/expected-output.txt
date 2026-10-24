@@ -1,0 +1,4 @@
+Checked exception handled: FileNotFoundException
+Index 3 is out of range; avoided the crash.
+Is IOException a RuntimeException? false
+Is NullPointerException a RuntimeException? true

@@ -1,0 +1,3 @@
+Lena walked 7500 steps
+Rejected: Steps cannot be negative
+Goal progress: 75%

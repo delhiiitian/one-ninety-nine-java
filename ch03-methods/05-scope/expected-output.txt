@@ -1,0 +1,9 @@
+Ana gets ticket #1
+Ben gets ticket #2
+Total visitors: 2
+Good afternoon
+0 squared = 0
+1 squared = 1
+2 squared = 4
+Local totalVisitors: 999
+Class totalVisitors: 2

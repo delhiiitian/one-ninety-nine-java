@@ -1,0 +1,8 @@
+Mom's number: 555-0101
+Unknown: null
+Plumber or default: not saved
+Has Pizza? true, size 2
+Word counts: {delivery=1, food=1, great=3, price=1, service=1, slow=1}
+Cake    $3.75
+Coffee  $2.50
+Tea     $2.00

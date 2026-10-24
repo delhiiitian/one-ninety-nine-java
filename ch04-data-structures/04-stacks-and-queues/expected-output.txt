@@ -1,0 +1,10 @@
+Last action: inserted image
+Undo: inserted image
+Undo: made text bold
+Remaining history: [typed 'Hello']
+Next to print: report.pdf
+Printing report.pdf
+Printing photo.png
+Printing invoice.docx
+(a[b]{c}) balanced? true
+(a[b)c]  balanced? false

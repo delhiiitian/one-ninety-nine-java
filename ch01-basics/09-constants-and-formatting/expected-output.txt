@@ -1,0 +1,9 @@
+Without formatting: 8.1432
+Corner Grocery
+Apples         2.40
+Bread          3.15
+Milk           1.99
+Tax            0.60
+TOTAL          8.14
+Items: 3, tax rate: 8%
+Order #00042

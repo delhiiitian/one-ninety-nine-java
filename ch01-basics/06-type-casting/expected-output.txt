@@ -1,0 +1,8 @@
+Widened: 9500, 9500.0
+(int) 19.99 = 19
+Math.round(19.99) = 20
+(byte) 300 = 44
+Wrong %: 0
+Right %: 77.77777777777779
+'A' code = 65, next letter = B
+Parsed: 42, 3.75, back to text: 43

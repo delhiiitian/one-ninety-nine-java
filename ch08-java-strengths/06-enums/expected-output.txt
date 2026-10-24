@@ -1,0 +1,7 @@
+I ordered a LARGE coffee: 470 ml, $3.9
+SMALL   240 ml  $2.50
+MEDIUM  350 ml  $3.20
+LARGE   470 ml  $3.90
+Parsed: SMALL, position 0
+Your order is on the way.
+Next status after PLACED: SHIPPED

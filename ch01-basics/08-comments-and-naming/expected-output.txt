@@ -1,0 +1,2 @@
+Attempts left: 1
+Bad name d=7, good name daysUntilExpiry=7

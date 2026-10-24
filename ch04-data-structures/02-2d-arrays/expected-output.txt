@@ -1,0 +1,11 @@
+Cinema seating (X = booked):
+Row A: [ ][X][ ][ ]
+Row B: [ ][X][X][ ]
+Row C: [ ][ ][ ][X]
+Ali  average 86.3
+Bea  average 72.0
+Cy   average 94.7
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]

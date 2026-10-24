@@ -1,0 +1,11 @@
+byte    floorNumber     = 12
+short   yearBuilt       = 1998
+int     population      = 8400000
+long    worldPopulation = 8100000000
+float   temperature     = 36.6
+double  accountBalance  = 10542.75
+char    grade           = A
+boolean isOpen          = true
+Largest int:  2147483647
+Largest long: 9223372036854775807
+MAX_VALUE + 1 = -2147483648  (overflow!)

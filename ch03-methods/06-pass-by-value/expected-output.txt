@@ -1,0 +1,5 @@
+  inside tryToDouble: 20
+after tryToDouble: 10
+after points = doubled(points): 20
+after addBonusToAll: [75, 85, 95]
+after replaceArray: [75, 85, 95]

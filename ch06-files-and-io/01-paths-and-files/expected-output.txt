@@ -1,0 +1,10 @@
+Relative path: reports/2026/october.txt
+File name:     october.txt
+Parent folder: reports/2026
+Parts:         3
+Working directory ends with: 01-paths-and-files
+Resolved: sandbox/notes.txt
+Exists? false
+This source file exists? true
+Is a directory? true
+Normalized: docs/final/plan.txt

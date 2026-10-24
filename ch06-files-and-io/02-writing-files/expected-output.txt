@@ -1,0 +1,3 @@
+Wrote sandbox/note.txt (30 bytes)
+Wrote 4 lines to sandbox/shopping.txt
+note.txt now says: Plants watered.

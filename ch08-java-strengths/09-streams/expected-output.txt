@@ -1,0 +1,10 @@
+Sold 10+ units: [Chair, Mouse, Notebook, Pen]
+Total revenue: $6020.0
+  Electronics $3,200.00
+  Furniture   $2,200.00
+  Stationery  $620.00
+Top earner: Laptop
+Any item over $500? true
+Product names: Laptop, Mouse, Desk, Chair, Pen, Notebook
+Sum of 1..100: 5050
+Squares of evens to 10: [4, 16, 36, 64, 100]

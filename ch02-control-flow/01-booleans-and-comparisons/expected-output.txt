@@ -1,0 +1,10 @@
+age == 19 : true
+age != 18 : true
+age > 21  : false
+age >= 18 : true
+height < 120 : false
+Can ride alone? true
+Gets discount?  false
+Needs ticket?   false
+Valid coupon? false
+Park is busy for you? true

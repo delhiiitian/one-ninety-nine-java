@@ -1,0 +1,14 @@
+Low to high: [5, 18, 30, 42, 99]
+High to low: [99, 42, 30, 18, 5]
+By price:
+  Cable       $  9.99  3.9 stars
+  Charger     $ 19.99  4.7 stars
+  Headphones  $ 59.99  4.5 stars
+  Speaker     $ 89.00  4.5 stars
+By rating, then name:
+  Charger     $ 19.99  4.7 stars
+  Headphones  $ 59.99  4.5 stars
+  Speaker     $ 89.00  4.5 stars
+  Cable       $  9.99  3.9 stars
+Sorted names [Amir, Kofi, Lena, Zara], Lena at index 2
+Cheapest: Cable

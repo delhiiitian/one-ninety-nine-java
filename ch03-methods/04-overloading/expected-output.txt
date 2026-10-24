@@ -1,0 +1,9 @@
+Square 4.0:       16.0
+Rectangle 3 x 5:  15.0
+Circle radius 2:  12.57
+[INFO] Server started
+[WARN] Disk almost full
+42
+3.14
+Z
+true

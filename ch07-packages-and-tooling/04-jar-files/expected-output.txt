@@ -1,0 +1,8 @@
+Contents of dice.jar:
+META-INF/
+META-INF/MANIFEST.MF
+com/
+com/dice/
+com/dice/DiceRoller.class
+Rolled 2 dice: 5 3 (total 8)
+Rolled 5 dice: 5 3 4 5 5 (total 22)

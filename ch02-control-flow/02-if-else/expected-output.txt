@@ -1,0 +1,5 @@
+Payment declined. You are short by $15.0
+Low battery! Turning on power saver.
+Battery: 15%
+You have 1 item in your cart.
+(This line always runs: only the first line belongs to the if.)

@@ -1,0 +1,8 @@
+Characters: 120
+Lines: 4
+ 1 | Hope is the thing with feathers
+ 2 | That perches in the soul,
+ 3 | And sings the tune without the words,
+ 4 | And never stops at all.
+Words: 23
+Could not find: missing.txt

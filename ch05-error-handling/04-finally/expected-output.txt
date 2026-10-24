@@ -1,0 +1,13 @@
+Picking up the rental car
+Driving...
+Trip finished smoothly
+Returning the car to the agency
+
+Picking up the rental car
+Driving...
+Trouble: flat tyre!
+Returning the car to the agency
+
+Processing payment
+Closing the payment window
+Returned value: paid

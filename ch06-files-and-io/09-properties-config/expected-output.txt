@@ -1,0 +1,5 @@
+App: Java 199 Notes
+Port: 8080
+Dark mode: true
+Language: en
+Saved sandbox/user.properties with 3 settings

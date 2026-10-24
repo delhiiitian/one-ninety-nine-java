@@ -1,0 +1,9 @@
+Monday: 21.5
+Sunday: 20.0
+Spot 3 holds: MH-12-9876
+Spot 1 holds: null
+Average: 21.60, Hottest: 25.1
+All temps: [21.5, 23.0, 20.3, 25.1, 22.4, 18.9, 20.0]
+Sorted:    [18.9, 20.0, 20.3, 21.5, 22.4, 23.0, 25.1]
+Filled:    [7, 7, 7, 7]
+Length is fixed at 7

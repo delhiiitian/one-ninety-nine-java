@@ -1,0 +1,4 @@
+Charging $49.99 to card ending 4444
+Requesting $15.0 from UPI id ravi@bank
+Received $50.0 cash for a $20.0 bill
+Change due: $30.0

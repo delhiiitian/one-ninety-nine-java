@@ -1,0 +1,14 @@
+100 with VAT: 120.0
+bob@mail.com is an email? true
+Area 4x5: 20
+Good morning!
+Images: [cat.jpg, dog.jpg]
+Long names: [report.pdf, budget.xlsx]
+Sorted by length: [cat.jpg, dog.jpg, report.pdf, budget.xlsx]
+  file: cat.jpg
+  file: dog.jpg
+  file: report.pdf
+CAT.JPG
+DOG.JPG
+REPORT.PDF
+Discount then VAT on 50: 54.0

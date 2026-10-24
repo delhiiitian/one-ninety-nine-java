@@ -1,0 +1,4 @@
+Diary has 3 entries:
+  Mon: started learning file I/O
+  Tue: wrote my first log file
+  Wed: appended without losing old lines

@@ -1,0 +1,17 @@
+Full name: Ada Lovelace
+Length: 12
+Upper: ADA LOVELACE
+Lower: ada lovelace
+First letter: A
+Surname via substring: Lovelace
+Contains 'Love'? true
+Index of 'L': 4
+Replace: Augusta Ada Lovelace
+Trimmed: [ada@example.com]
+a.equals(b): true
+a == b: false
+equalsIgnoreCase: true
+Still: paris
+Now: PARIS
+Bean There Cafe
+2 x Latte   $7.00

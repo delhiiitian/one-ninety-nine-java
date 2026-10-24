@@ -1,0 +1,3 @@
+Lisbon: 19.0 C, mild
+Cairo: 32.0 C, sunny
+Running in module: com.weather.app

@@ -1,0 +1,10 @@
+Serialized:
+{
+  "title": "The Pragmatic Programmer",
+  "author": "Hunt & Thomas",
+  "year": 1999,
+  "price": 39.95,
+  "tags": ["career", "craft"]
+}
+Parsed fields: {id=7, name=Ravi "RJ" Joshi, active=true, balance=1520.75}
+Ravi "RJ" Joshi has balance 1520.75, active=true

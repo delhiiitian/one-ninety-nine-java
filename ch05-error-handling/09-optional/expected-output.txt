@@ -1,0 +1,6 @@
+ana present? true
+zed present? false
+Logged in as: guest
+Welcome back, ana
+raj's email: no email on file
+Error: User zed not found

@@ -1,0 +1,10 @@
+sam@mail.com valid? true
+sam@mail valid? false
+first.last+news@shop.co valid? true
+560001 is a PIN? true
+Found order number 1042
+Found order number 1077
+Day 01 of month 10, 2026
+Day 19 of month 10, 2026
+Card ************4444 charged; card ************0004 declined
+java | spring | docker | kubernetes

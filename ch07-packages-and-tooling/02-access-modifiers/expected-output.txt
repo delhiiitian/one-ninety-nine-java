@@ -1,0 +1,5 @@
+Owner (public field): Farah
+Balance via public getter: 620.0
+PIN 0000 correct? false
+Auditor sees: Farah @ BR-07, rate 0.02
+Blocked: Deposit must be positive

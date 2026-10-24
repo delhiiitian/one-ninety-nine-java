@@ -1,0 +1,6 @@
+25 C = 77.0 F
+100 C = 212.0 F
+17 cannot vote yet
+Price after 10% then 5% off: 171.0
+No discount: 50.0
+Initials of Grace Hopper: GH

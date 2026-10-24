@@ -1,0 +1,8 @@
+5! = 120
+20! = 2432902008176640000
+  Opening doll of size 3
+  Opening doll of size 2
+  Opening doll of size 1
+  Found the tiny solid doll!
+sumDigits(1234) = 10
+First 10 Fibonacci numbers: 0 1 1 2 3 5 8 13 21 34 

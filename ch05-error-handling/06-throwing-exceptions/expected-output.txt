@@ -1,0 +1,5 @@
+Alarm set for 06:30
+Rejected: Hour must be 0-23, got 25
+Balance now 60.0
+Rejected: Insufficient funds: balance 60.0, requested 500.0
+Error: Invalid settings line 'port=abc' | cause: NumberFormatException

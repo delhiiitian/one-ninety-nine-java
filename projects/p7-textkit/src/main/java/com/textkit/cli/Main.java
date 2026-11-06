@@ -26,7 +26,8 @@ public class Main {
                 default -> files.add(Path.of(args[i]));
             }
         }
-        Logger.getLogger("").setLevel(verbose ? Level.FINE : Level.WARNING);
+        // Only TextKit's own loggers get more detail; the JDK's internal loggers stay quiet
+        Logger.getLogger("com.textkit").setLevel(verbose ? Level.FINE : Level.WARNING);
         Logger.getLogger("").getHandlers()[0].setLevel(verbose ? Level.FINE : Level.WARNING);
 
         if (files.isEmpty()) {

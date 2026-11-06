@@ -36,11 +36,14 @@ public class ParkingLot {
 
     public void setPricing(PricingStrategy pricing) { this.pricing = pricing; }
 
-    /** Best spot = smallest that fits, lowest floor first; EVs that need charge prefer a charger. */
+    /**
+     * Best spot = smallest that fits, lowest floor first. EVs that need charge prefer a charger spot;
+     * every other vehicle avoids charger spots, so they stay free for EVs.
+     */
     public Optional<Ticket> enter(Vehicle v, LocalDateTime time) {
         boolean wantsCharger = v instanceof Chargeable c && c.needsCharge();     // pattern matching
         Comparator<ParkingSpot> best = Comparator
-                .comparing((ParkingSpot s) -> wantsCharger && !s.hasCharger())   // false (= has charger) sorts first
+                .comparing((ParkingSpot s) -> s.hasCharger() != wantsCharger)    // false (= good match) sorts first
                 .thenComparing(ParkingSpot::getSize)
                 .thenComparingInt(ParkingSpot::getFloor);
         Optional<ParkingSpot> spot = spots.stream().filter(s -> s.fits(v)).min(best);
